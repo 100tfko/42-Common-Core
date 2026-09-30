@@ -19,3 +19,9 @@
 [submodule "Rank02/42-CommonCore-fract-ol"]
 	path = Rank02/42-CommonCore-fract-ol
 	url = https://github.com/100tfko/42-CommonCore-fract-ol.git
+[submodule "Rank03/42-CommonCore-Philosophers"]
+	path = Rank03/42-CommonCore-Philosophers
+	url = https://github.com/100tfko/42-CommonCore-Philosophers.git
+[submodule "Rank03/42-CommonCore-minishell"]
+	path = Rank03/42-CommonCore-minishell
+	url = https://github.com/100tfko/42-CommonCore-minishell.git
