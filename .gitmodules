@@ -34,3 +34,12 @@
 [submodule "Rank04/42-CommonCore-CPP"]
 	path = Rank04/42-CommonCore-CPP
 	url = https://github.com/100tfko/42-CommonCore-CPP.git
+[submodule "Rank05/42-CommonCore-CPP"]
+	path = Rank05/42-CommonCore-CPP
+	url = https://github.com/100tfko/42-CommonCore-CPP.git
+[submodule "Rank05/42-CommonCore-ft_irc"]
+	path = Rank05/42-CommonCore-ft_irc
+	url = https://github.com/100tfko/42-CommonCore-ft_irc.git
+[submodule "Rank05/42-CommonCore-Inception"]
+	path = Rank05/42-CommonCore-Inception
+	url = https://github.com/100tfko/42-CommonCore-Inception.git
