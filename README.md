@@ -20,8 +20,8 @@ My projects from the 42 Common Core.
 
 ## 📁 Rank 03
 
-- 📦 Philosophers
-- 📦 minishell
+- 📦 [push_swap](https://github.com/100tfko/42-CommonCore-Philosophers)
+- 📦 [minishell](https://github.com/100tfko/42-CommonCore-minishell)
 
 ## 📁 Rank 04
 
