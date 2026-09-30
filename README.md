@@ -25,9 +25,9 @@ My projects from the 42 Common Core.
 
 ## 📁 Rank 04
 
-- 📦 cub3d
-- 📦 NetPractice
-- 📦 CPP
+- 📦 [CPP](https://github.com/100tfko/42-CommonCore-CPP)
+- 📦 [NetPractice](https://github.com/100tfko/42-CommonCore-NetPractice)
+- 📦 [cub3d](https://github.com/100tfko/42-CommonCore-cub3d)
 
 ## 📁 Rank 05
 
