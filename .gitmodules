@@ -25,3 +25,12 @@
 [submodule "Rank03/42-CommonCore-minishell"]
 	path = Rank03/42-CommonCore-minishell
 	url = https://github.com/100tfko/42-CommonCore-minishell.git
+[submodule "Rank04/42-CommonCore-cub3d"]
+	path = Rank04/42-CommonCore-cub3d
+	url = https://github.com/100tfko/42-CommonCore-cub3d.git
+[submodule "Rank04/42-CommonCore-NetPractice"]
+	path = Rank04/42-CommonCore-NetPractice
+	url = https://github.com/100tfko/42-CommonCore-NetPractice.git
+[submodule "Rank04/42-CommonCore-CPP"]
+	path = Rank04/42-CommonCore-CPP
+	url = https://github.com/100tfko/42-CommonCore-CPP.git
