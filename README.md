@@ -31,9 +31,9 @@ My projects from the 42 Common Core.
 
 ## 📁 Rank 05
 
-- 📦 CPP
-- 📦 ft_irc
-- 📦 Inception
+- 📦 [CPP](https://github.com/100tfko/42-CommonCore-CPP)
+- 📦 [Inception](https://github.com/100tfko/42-CommonCore-Inception)
+- 📦 [ft_irc](https://github.com/100tfko/42-CommonCore-ft_irc)
 
 ## 📁 Rank 06
 
