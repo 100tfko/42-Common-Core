@@ -5,8 +5,8 @@
 	path = Rank01/42-CommonCore-Born2beroot
 	url = https://github.com/100tfko/42-CommonCore-Born2beroot.git
 [submodule "Rank01/Ft_printf"]
-	path = Rank01/Ft_printf
-	url = https://github.com/100tfko/Ft_printf.git
+	path = Rank01/42-CommonCore-ft_printf
+	url = https://github.com/100tfko/42-CommonCore-ft_printf.git
 [submodule "Rank01/Get_next_line"]
-	path = Rank01/Get_next_line
-	url = https://github.com/100tfko/Get_next_line.git
+	path = Rank01/42-CommonCore-get_next_line
+	url = https://github.com/100tfko/42-CommonCore-get_next_line.git
