@@ -1,3 +1,12 @@
 [submodule "Rank00/Libft-v7"]
 	path = Rank00/Libft-v7
 	url = https://github.com/100tfko/Libft-v7.git
+[submodule "Rank01/Born2beroot"]
+	path = Rank01/Born2beroot
+	url = https://github.com/100tfko/Born2beroot.git
+[submodule "Rank01/Ft_printf"]
+	path = Rank01/Ft_printf
+	url = https://github.com/100tfko/Ft_printf.git
+[submodule "Rank01/Get_next_line"]
+	path = Rank01/Get_next_line
+	url = https://github.com/100tfko/Get_next_line.git
