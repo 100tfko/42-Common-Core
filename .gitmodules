@@ -10,3 +10,12 @@
 [submodule "Rank01/Get_next_line"]
 	path = Rank01/42-CommonCore-get_next_line
 	url = https://github.com/100tfko/42-CommonCore-get_next_line.git
+[submodule "Rank02/42-CommonCore-push_swap"]
+	path = Rank02/42-CommonCore-push_swap
+	url = https://github.com/100tfko/42-CommonCore-push_swap.git
+[submodule "Rank02/42-CommonCore-pipex"]
+	path = Rank02/42-CommonCore-pipex
+	url = https://github.com/100tfko/42-CommonCore-pipex.git
+[submodule "Rank02/42-CommonCore-fract-ol"]
+	path = Rank02/42-CommonCore-fract-ol
+	url = https://github.com/100tfko/42-CommonCore-fract-ol.git
