@@ -4,7 +4,7 @@ My projects from the 42 Common Core.
 
 ## 📁 Rank 00
 
-- 📦 [Libft]([https://github.com/100tfko/Libft-v7](https://github.com/100tfko/42-CommonCore-Libft))
+- 📦 [Libft](https://github.com/100tfko/42-CommonCore-Libft)
 
 ## 📁 Rank 01
 
