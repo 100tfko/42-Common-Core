@@ -1,6 +1,6 @@
 [submodule "Rank00/Libft-v7"]
-	path = Rank00/Libft-v7
-	url = https://github.com/100tfko/Libft-v7.git
+	path = Rank00/42-CommonCore-Libft
+	url = https://github.com/100tfko/42-CommonCore-Libft.git
 [submodule "Rank01/Born2beroot"]
 	path = Rank01/Born2beroot
 	url = https://github.com/100tfko/Born2beroot.git
