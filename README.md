@@ -14,9 +14,9 @@ My projects from the 42 Common Core.
 
 ## 📁 Rank 02
 
-- 📦 push_swap
-- 📦 pipex
-- 📦 fract-ol
+- 📦 [push_swap](https://github.com/100tfko/42-CommonCore-push_swap)
+- 📦 [pipex](https://github.com/100tfko/42-CommonCore-pipex)
+- 📦 [fract-ol](https://github.com/100tfko/42-CommonCore-fract-ol)
 
 ## 📁 Rank 03
 
