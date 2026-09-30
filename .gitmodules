@@ -43,3 +43,6 @@
 [submodule "Rank05/42-CommonCore-Inception"]
 	path = Rank05/42-CommonCore-Inception
 	url = https://github.com/100tfko/42-CommonCore-Inception.git
+[submodule "Rank06/42-CommonCore-ft_transcendence"]
+	path = Rank06/42-CommonCore-ft_transcendence
+	url = https://github.com/100tfko/42-CommonCore-ft_transcendence.git
