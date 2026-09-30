@@ -1,6 +1,18 @@
 # 42 Common Core
 
-My projects from the 42 Common Core.
+This repository serves as an index and navigation point for my 42 Common Core projects.
+
+The projects themselves are kept in their own repositories. This repository organizes them by rank, providing a simple way to navigate through the different stages of the Common Core.
+
+
+## About 42
+
+42 is a project-based, peer-to-peer programming school. Instead of following a traditional lecture-based curriculum, students learn by working on projects, researching solutions, and collaborating with other students.
+
+The Common Core is structured around a progression of projects that gradually introduce new concepts, tools, and programming paradigms.
+
+Projects are evaluated through the 42 peer-to-peer evaluation system, where students review and discuss each other's work. This makes both technical knowledge and the ability to understand and explain code an important part of the learning process.
+
 
 ## 📁 Rank 00
 
