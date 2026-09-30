@@ -8,9 +8,9 @@ My projects from the 42 Common Core.
 
 ## 📁 Rank 01
 
-- 📦 [Born2beroot](https://github.com/100tfko/Born2beroot)
-- 📦 [ft_printf](https://github.com/100tfko/Ft_printf)
-- 📦 [get_next_line](https://github.com/100tfko/Get_next_line)
+- 📦 [Born2beroot](https://github.com/100tfko/42-CommonCore-Born2beroot)
+- 📦 [ft_printf](https://github.com/100tfko/42-CommonCore-ft_printf)
+- 📦 [get_next_line](https://github.com/100tfko/42-CommonCore-get_next_line)
 
 ## 📁 Rank 02
 
