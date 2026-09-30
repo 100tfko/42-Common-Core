@@ -2,8 +2,8 @@
 	path = Rank00/42-CommonCore-Libft
 	url = https://github.com/100tfko/42-CommonCore-Libft.git
 [submodule "Rank01/Born2beroot"]
-	path = Rank01/Born2beroot
-	url = https://github.com/100tfko/Born2beroot.git
+	path = Rank01/42-CommonCore-Born2beroot
+	url = https://github.com/100tfko/42-CommonCore-Born2beroot.git
 [submodule "Rank01/Ft_printf"]
 	path = Rank01/Ft_printf
 	url = https://github.com/100tfko/Ft_printf.git
